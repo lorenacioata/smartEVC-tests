@@ -1,1 +1,1 @@
-# smartEVC-tests
+Test cases for SmartEVC application
